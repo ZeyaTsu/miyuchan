@@ -1,1 +1,2 @@
-# MOVED [HERE](https://github.com/miyu-ch/miyuchan)
+> [!NOTE]
+> MOVED [HERE](https://github.com/miyu-ch/miyuchan)
